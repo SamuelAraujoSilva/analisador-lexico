@@ -38,7 +38,6 @@ reserved = {
     'self': 'SELF',
 }
 
-# List of token names.   This is always required
 tokens = [
              'ID', 'NUMBER', 'PLUS', 'MINUS', 'TIMES', 'DIVIDE', 'LPAREN', 'RPAREN', 'RCOLC', 'LCOLC', 'RBRACE',
              'LBRACE', 'COMMA', 'SEMICOLON', 'EXPLAMATION', 'COLON',
